@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+  <head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+        <meta name="generator" content="Pelican" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+	 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	 <link rel="stylesheet" href="{{SITEURL}}/theme/css/bohak.css">
+        {% endblock head %}
+  </head>
+  <body>
+	<div id="titlefoto" class="w3-display-container">
+		<img src="{{SITEURL}}/images/titlefoto.jpg" alt="Titulní fotka" width="100%">
+        <header id="banner" class="w3-container w3-display-bottommiddle w3-black b-transparent">
+                <h1><a href="{{ SITEURL }}/" class="b-title">{{ SITENAME }}{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+        </header><!-- /#banner -->
+	</div>
+	<div id="contentwrap" class="w3-row">
+        <nav id="menu" class="w3-quarter w3-bar-block w3-brown w3-border-orange w3-rightbar"><ul>
+        {% for title, link in MENUITEMS %}
+            <a href="{{ link }}" class="w3-bar-item w3-button w3-hover-orange">{{ title }}</a>
+        {% endfor %}
+        {% if DISPLAY_PAGES_ON_MENU %}
+          {% for p in pages %}
+            <a href="{{ SITEURL }}/{{ p.url }}" class="w3-bar-item w3-button w3-hover-orange">{{ p.title }}</a></li>
+          {% endfor %}
+        {% endif %}
+        {% if DISPLAY_CATEGORIES_ON_MENU %}
+          {% for cat, null in categories %}
+            <a href="{{ SITEURL }}/{{ cat.url }}" class="w3-bar-item w3-button w3-hover-orange">{{ cat }}</a></li>
+          {% endfor %}
+        {% endif %}
+        </ul></nav><!-- /#menu -->
+	<div id="content" class="w3-threequarter w3-container w3-pale-yellow w3-padding">
+        {% block content %}
+        {% endblock %}
+	</div> <!-- content -->
+	</div> <!-- contentwrap -->
+        <footer id="contentinfo" class="w3-container w3-black">
+                <address id="about" class="vcard body">
+                Stránky generuje <a href="https://getpelican.com/">Pelican</a>,
+                který používá jazyk <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+
+
+  </body>
+</html>
+
