@@ -9,8 +9,25 @@ Historie značky
 :summary: Krátký přehled historie značky Bohák
 :status: published
 
-**Rok 1900**
-Pokračovateľom a taktiež konkurentom firmy Schunda sa od roku 1900 stala firma Bohák. Jeh zakladateľ Lajos Bohák sa narodil 6. 8. 1870 v obci Kvetná na Slovensku. Najprv sa zaujímal o prácu vo firme Schunda, kde bol odmietnutý. Uznanie si Lajos Bohák získal až v roku 1896 pri príležitosti výstavy, na ktorej predstavil svoj koncertný biely cimbal. Potom si v roku 1900 otvoril vlastnú dielňu.
+.. class:: w3-card w3-red w3-padding intext-left
+
+  **Rok 1900**
+  Pokračovateľom a taktiež konkurentom firmy Schunda sa od roku 1900 stala firma Bohák. Jeh zakladateľ Lajos Bohák sa narodil 6. 8. 1870 v obci Kvetná na Slovensku. Najprv sa zaujímal o prácu vo firme Schunda, kde bol odmietnutý. Uznanie si Lajos Bohák získal až v roku 1896 pri príležitosti výstavy, na ktorej predstavil svoj koncertný biely cimbal. Potom si v roku 1900 otvoril vlastnú dielňu.
+
+.. list-table::
+   :header-rows: 1
+   :class: w3-table w3-card
+
+   * - jedna
+     - dva
+     - tři
+   * - uno
+     - duo
+     - tre
+   * - one
+     - two
+     - three
+
 
 .. raw:: html
 
