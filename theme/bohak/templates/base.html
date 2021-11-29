@@ -6,12 +6,13 @@
         <meta charset="utf-8" />
         <meta name="generator" content="Pelican" />
     	<meta name="viewport" content="width=device-width, initial-scale=1">
-	 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	 <link rel="stylesheet" href="{{SITEURL}}/theme/css/w3.css">
+	 <link rel="stylesheet" href="{{SITEURL}}/theme/css/w3-theme-brown.css">
 	 <link rel="stylesheet" href="{{SITEURL}}/theme/css/bohak.css">
         {% endblock head %}
   </head>
-  <body class="w3-pale-yellow">
-	<div class="w3-sidebar w3-bar-block w3-brown w3-border-orange w3-rightbar" style="width:25%;">
+  <body class="w3-theme-light">
+	<div class="w3-sidebar w3-bar-block w3-theme w3-border-orange w3-rightbar" style="width:25%;">
         	<header id="banner" class="w3-container w3-black b-transparent">
                 <h1><a href="{{ SITEURL }}/" class="b-title">{{ SITENAME }}</a></h1>
 		<h4>{{SITESUBTITLE}}</h4>
@@ -46,7 +47,7 @@
         </footer><!-- /#contentinfo -->
 	</div>
 	<div id="contentwrap" class="w3-container" style="margin-left: 30%; margin-right: 5%;">
-	<div id="content" class="w3-container w3-pale-yellow w3-padding" style="margin-top:8em;">
+	<div id="content" class="w3-container w3-theme-light w3-padding" style="margin-top:8em;margin-bottom:8em;">
         {% block content %}
         {% endblock %}
 	</div> <!-- content -->
