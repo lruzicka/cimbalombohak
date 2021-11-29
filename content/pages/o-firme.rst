@@ -18,17 +18,13 @@ Spoločnosť Cimbalom BOHÁK® sa zaoberá precíznou výrobou a predajom cimbal
 
 Za súčasnou značkou sa skrýva veľké srdce, ktoré vkladáme do výroby každého cimbalu, hodiny kreativity, inovatívnych nápadov, ale aj úcta k tradícii predchádzajúcich majstrov.
 
-.. image:: ../images/blue-angel.jpg
-    :alt: Cimbál Blue Angel 
-    :class: intext-left    
 
-.. image:: ../images/blue-angel.jpg
-    :alt: Cimbál Blue Angel 
-    :class: intext-left    
+.. container:: w3-center
 
-.. image:: ../images/blue-angel.jpg
-    :alt: Cimbál Blue Angel 
-    :class: intext-left    
+        .. image:: ../images/bily-cimbal-kolaz.png
+           :alt: Koláž s bílým cimbálem
+           :width: 100%
+   
 
 Kvalitu našich cimbalov posúvame neustále vyššie. Staré postupy výroby dopĺňame novým modernými duchom, ktorý zaručuje neustále zvyšujúcu sa kvalitu, tak potrebnú pre moderného cimbalistu. Základom našej práce je teda inovovaná technológia pre dosiahnutie najvyšších kvalít zvukovej i estetickej stránky. Aj vďaka tomu sme, napríklad, tento rok prišli na trh s odľahčeným cimbalom.
 
