@@ -28,7 +28,7 @@ máte obavy z kúpy cimbalu, pretože neviete či bude vaše dieťa baviť hra n
 2. Možnosť zakúpenia cimbalu na splátky pres Quatro. Kontaktujte nás pre viacej informácií.
 
 
-.. container:: 
+.. container:: w3-center w3-margin
 
     .. raw:: html
 

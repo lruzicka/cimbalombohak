@@ -11,10 +11,12 @@ Ceník pro rok 2021
 
 .. container:: w3-row-padding w3-theme-l4
 
-   .. container:: w3-col w3-third
+   .. container:: w3-col w3-third 
 
-        .. image:: ../images/cenik/standard.jpg
+        .. image:: ../images/blue-angel.jpg
+                :width: 100%
                 :alt: Cimbál typu Standard
+                :class: w3-border w3-border-black
 
    .. container:: w3-col w3-twothird
 
@@ -41,8 +43,10 @@ Ceník pro rok 2021
 
    .. container:: w3-col w3-third
 
-        .. image:: ../images/cenik/luxury.jpg
+        .. image:: ../images/brown-angel.jpg
                 :alt: Cimbál typu Luxury
+                :width: 100%
+                :class: w3-border w3-border-black
 
    .. container:: w3-col w3-twothird
 
@@ -69,8 +73,10 @@ Ceník pro rok 2021
 
    .. container:: w3-col w3-third
 
-        .. image:: ../images/cenik/retro.jpg
+        .. image:: ../images/brown-angel.jpg
                 :alt: Cimbál typu Retro
+                :width: 100%
+                :class: w3-border w3-border-black
 
    .. container:: w3-col w3-twothird
 
@@ -99,8 +105,10 @@ Ceník pro rok 2021
 
    .. container:: w3-col w3-third
 
-        .. image:: ../images/cenik/superior.jpg
+        .. image:: ../images/blue-angel.jpg
                 :alt: Cimbál typu Superior
+                :width: 100%
+                :class: w3-border w3-border-black
 
    .. container:: w3-col w3-twothird
 

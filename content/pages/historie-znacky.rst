@@ -13,7 +13,7 @@ Historie značky Bohák
 .. container:: w3-cell-row w3-margin 
 
 
-    .. container:: w3-cell w3-theme-l3 w3-padding w3-border
+    .. container:: w3-cell m6 w3-theme-l3 w3-padding w3-border
     
       **Vznik značky**
     
@@ -28,7 +28,7 @@ Historie značky Bohák
       K masivnímu rozšíření cimbálu jako nástroje, došlo v 19. století, kdy se dočkal mnoha technických inovací, které představila firma **Schunda** pod vedením *Josefa Václava Schundy*. O práci v této firmě se zajímal i mladý Lájos Bohák (narodil se 6.8.1870 v obci Kvetná na Slovensku), ale zaměstnání zde nedostal a výrobě cimbálů se posléze naučil v dílně K. Varji a už v roce 1896 slavil úspěch na hospodářské výstavě se svým koncertním *bílým cimbálem*. Díky tomu si mohl otevřít svou vlastní dílnu.
     
 
-    .. container:: w3-theme-l3 w3-padding w3-cell w3-border
+    .. container:: w3-theme-l3 w3-padding w3-cell m6 w3-border
     
       **Úspech pred vojnou**
     
