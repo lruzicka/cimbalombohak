@@ -29,11 +29,17 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 # Address line
 
 ANAME = 'Bohák Manufactury, s.r.o.'
-ASTREET = 'Štúrova 837'
-AZIP = '03101'
-ATOWN = 'Liptovský Mikuláš'
+AZIP = '032 14'
+ATOWN = 'Ľubeľa 65'
+PSTREET = 'Belopotockého 4'
+PTOWN = 'Liptovský Mikuláš'
+PZIP = '031 01'
+ICO = '52100448'
+DIC = '2120897746'
+
 APHONE = '+421 950 371 361'
 AMAIL = 'cimbal.bohak@gmail.com'
+
 
 
 # Social widget

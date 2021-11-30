@@ -1,1 +1,15 @@
+.title a {
+	text-decoration: none;
+}
 
+.subtitle {
+	font-size: 140%;
+}
+
+.menu a {
+	text-decoration: none !important;
+}
+
+.solid {
+	opacity: 1 !important;
+}
