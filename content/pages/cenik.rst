@@ -60,7 +60,7 @@ Ceník pro rok 2021
                 * - Základné prevedenie
                   - buk
                 * - Kobylky
-                  - javor
+                  - KNCJV
                 * - Nohy
                   - mosadzné kopýtka, dve nohy sú výškovo stavitelné
                 * - Struny
