@@ -9,11 +9,11 @@ Ceník pro rok 2021
 :summary: Informace o cenách
 :status: published
 
-.. container:: w3-row-padding w3-theme-l4
+.. container:: w3-row-padding 
 
-   .. container:: w3-col w3-third 
+   .. container:: w3-col w3-third  
 
-        .. image:: ../images/blue-angel.jpg
+        .. image:: ../images/cenik/standard.jpg
                 :width: 100%
                 :alt: Cimbál typu Standard
                 :class: w3-border w3-border-black
@@ -39,11 +39,11 @@ Ceník pro rok 2021
         Cena tohto modelu je **3.180,- EUR**.
 
 
-.. container:: w3-row-padding w3-theme-l4
+.. container:: w3-row-padding 
 
    .. container:: w3-col w3-third
 
-        .. image:: ../images/brown-angel.jpg
+        .. image:: ../images/cenik/luxury.jpg
                 :alt: Cimbál typu Luxury
                 :width: 100%
                 :class: w3-border w3-border-black
@@ -59,6 +59,8 @@ Ceník pro rok 2021
                   - C - a3
                 * - Základné prevedenie
                   - buk
+                * - Základná povrchová úprava
+                  - hnedá
                 * - Kobylky
                   - KNCJV
                 * - Nohy
@@ -69,11 +71,11 @@ Ceník pro rok 2021
         Cena tohto modelu je **3.650,- EUR**.
 
 
-.. container:: w3-row-padding w3-theme-l4
+.. container:: w3-row-padding
 
    .. container:: w3-col w3-third
 
-        .. image:: ../images/brown-angel.jpg
+        .. image:: ../images/cenik/retro.jpg
                 :alt: Cimbál typu Retro
                 :width: 100%
                 :class: w3-border w3-border-black
@@ -101,7 +103,7 @@ Ceník pro rok 2021
         Cena tohto modelu je **4.800,- EUR**.
 
 
-.. container:: w3-row-padding w3-theme-l4
+.. container:: w3-row-padding 
 
    .. container:: w3-col w3-third
 
@@ -136,7 +138,7 @@ Ceník pro rok 2021
 
         Cena tohto modelu je **5.300,- EUR**.
 
-.. container:: w3-row-padding w3-theme-l4
+.. container:: w3-row-padding
 
    .. container:: w3-col w3-third
 
