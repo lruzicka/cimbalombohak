@@ -3,7 +3,7 @@
 AUTHOR = 'Bohák Manufactury, s.r.o.'
 SITENAME = 'Cimbalom Bohák'
 SITESUBTITLE = 'tradiční výrobce cimbálů od roku 1900'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
