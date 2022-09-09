@@ -8,37 +8,38 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {% endblock head %}
         <!-- CSS only -->
-        <link rel="stylesheet" href="{{SITEURL}}/theme/css/w3pro.css">
+        <!--<link rel="stylesheet" href="{{SITEURL}}/theme/css/w3pro.css">-->
+        <link rel="stylesheet" href="{{SITEURL}}/theme/css/theme.css">
         <link rel="stylesheet" href="{{SITEURL}}/theme/css/woody.css">
-        <link rel="stylesheet" href="{{SITEURL}}/theme/css/w3-theme-brown.css">
 </head>
 
-<body id="index" class="w3-theme-background w3-theme-dark">
-    <div id="page" class="container">
-        <div id="row" class="w3-row">
-        <div class="w3-col m3 w3-theme-dark">
-        <header id="title" class="title w3-padding">
-                <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
-                <div id="subtitle" class="subtitle w3-padding">
+<body>
+    <div id="page" class="page-container">
+        <header id="title">
+                <h1 class="title"><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+                <h2 class="subtitle">
                 {% if SITESUBTITLE %} {{ SITESUBTITLE }}{% endif %}
-                </div>
+                </h2>
         </header><!-- /#banner -->
-        <nav id="menu" class="w3-bar-block"><ul>
+        <nav id="menu">
+        <ul>
         {% for title, link in MENUITEMS %}
-            <li class="w3-bar-item w3-button w3-hover-text-theme"><a href="{{ link }}">{{ title }}</a></li>
+            <li class="navbutton"><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU %}
           {% for p in pages %}
-            <a class="w3-bar-item w3-button w3-hover-text-theme" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+          <div class="navbutton"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></div>
           {% endfor %}
         {% endif %}
         {% if DISPLAY_CATEGORIES_ON_MENU %}
           {% for cat, null in categories %}
-            <li class="w3-bar-item w3-button w3-hover-text-theme"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            <li class="navbutton"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
           {% endfor %}
         {% endif %}
-        </ul></nav><!-- /#menu -->
-                <address id="about" class="w3-center w3-container w3-padding w3-border-top w3-border-theme-dark">
+        </ul>
+        </nav><!-- /#menu -->
+      <!--  
+        <address id="about" class="w3-center w3-container w3-padding">
 			<p><b>{{ANAME}}</b><br/>
 			{{AZIP}} {{ATOWN}}</p><br/>
 			<p>Prevádzka:<br/>
@@ -50,17 +51,18 @@
 			<p>{{APHONE}}<br/>
 			{{AMAIL}}</p>
 
-                </address><!-- /#about -->
-        </div> <!-- end of nav -->
-        <div id="main" class="w3-col m9 w3-theme-l4 w3-padding w3-border-left w3-leftbar w3-border-theme-dark">
+        </address><!-- /#about -->
+        
+        
+        <div id="main">
         {% block content %}
         {% endblock %}
-        <footer id="contentinfo" class="w3-container w3-theme-dark w3-center w3-padding b-transparent">
-		<p>Copyright Bohák Manufactury, s.r.o., 2021</p>
-		<p>Stránky vytváří statický generátor <a href="https://getpelican.com/">Pelican</a>.<p>
-        </footer><!-- /#contentinfo -->
         </div> <!-- page main -->
-        </div> <!-- row -->
+
+        <footer id="contentinfo" class="w3-container w3-theme-dark w3-center w3-padding b-transparent">
+		<p>Copyright Bohák Manufactury, s.r.o., 2022</p>
+		<p class="credits">Stránky vytváří publikační nástroj <a href="https://getpelican.com/">Pelican</a>.<p>
+        </footer><!-- /#contentinfo -->
         </div> <!-- end of page -->
 </body>
 </html>

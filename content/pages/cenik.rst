@@ -1,4 +1,4 @@
-Ceník pro rok 2021
+Ceník pro rok 2022
 ##################
 
 :date: 2021-11-29
