@@ -6,6 +6,8 @@ body {
     max-width: 1200px;
     margin: auto;
     color: #111111;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 140%;
 }
 
 header {
@@ -27,7 +29,7 @@ footer {
 
 .title {
     text-align: center;
-    font-size: 450%;
+    font-size: 400%;
 }
 
 .title a {
@@ -37,7 +39,7 @@ footer {
 
 .subtitle {
     text-align: center;
-	font-size: 250%;
+	font-size: 200%;
 }
 
 #menu {
@@ -68,6 +70,13 @@ footer {
     padding-left: 30px;
     padding-top: 10px;
 }
+
+.iframe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .sec-content {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -75,10 +84,16 @@ footer {
     padding-right: 50px;
 }
 
+.sec-content a {
+    color: 	rgb(255, 132, 0);
+    text-decoration: none;
+}
+
 .sec-title {
     font-weight: bold;
     font-size: 200%;
     text-align: center;
+    text-decoration: none;
 }
 
 .line {
@@ -91,6 +106,7 @@ footer {
     margin-top: 20px;
     margin-left: -10px; 
     margin-right: -10px;
+    justify-content: center;
 }
 
 .card {
@@ -99,7 +115,7 @@ footer {
     padding-right: 10px;
     padding-top: 20px;
     padding-bottom: 10px;
-    border: 3px solid black;
+    border: 2px solid black;
     text-align: center;
 }
 
@@ -108,5 +124,20 @@ footer {
 }
 
 .credits a {
-    color: rgb(255, 169, 77);
+    color: 	rgb(255, 132, 0);
 }
+
+.framed {
+    border: 1px solid black;
+}
+
+.centered {
+    text-align: center;
+}
+
+.image-centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+

@@ -24,15 +24,15 @@ Vítejte
         </video>
 
 
-.. container:: sec-content theme20 line
+.. container:: sec-content theme90 line
 
     .. container:: sec-title
 
-        Historie značky
+        `Historie značky <./pages/historie-znacky.html>`_
    
     Historie firmy Bohák se začala psát v roce 1900 a její zrod předznamenal vývoj cimbálu ve 20. století, jelikož se stala konkurentem a de fakto pokračovatelem cimbálové firmy Schunda. Její zakladatel, Lajos Bohák, se narodil 6. srpna roku 1870 v obci Kvetná na Slovensku. Nejdříve se zajímal o práci ve firmě Schunda, kde jej ale, jak se později ukázalo bohužel pro ně, odmítli. Uznání si Lajos Bohák získal až v roce 1896 při příležitosti hospodářské výstavy, na které představil svůj koncertní bílý cimbál. V roce 1900 si otevírá svoji vlastní dílnu a zavádí do výroby cimbálů další moderní prvky.
 
-.. container:: sec-content theme85 line
+.. container:: sec-content theme80 line
 
     .. container:: sec-title
 
@@ -57,7 +57,15 @@ Vítejte
 
     Našou veľkou snahou je podporiť hru na tento krásny nástroj u detí a mladej generácie. Aj preto vyrábame cimbaly cenovo dostupnejšie pre rodičov, pričom ponúkame aj splátkový systém. 
 
-.. container:: sec-content theme20 line
+.. container:: sec-content theme90
+
+    .. image:: ../images/bily-cimbal-kolaz.png
+        :width: 70%
+        :alt: Promofotografie bílého cimbálu
+        :class: image-centered
+
+
+.. container:: sec-content theme20 line content-centered
 
     .. container:: sec-title
         
@@ -65,22 +73,25 @@ Vítejte
 
     .. container:: cards
 
-        .. container:: card theme45
+        .. container:: card theme50
 
-            Tohle je kartička 1.
+            *Super služby, ak treba, posielanie ladičov, teraz už druhý cimbál. Ako vždy úplne super. Držím palce páni, a som zvedavý na tú odľahčenů verziu. Klobúk dole, palec hore.*
 
-        .. container:: card theme60
+            Peter
 
-            Tohle je kartička 2.
+        .. container:: card theme10
 
-        .. container:: card theme80
+            *Spoľahlivost, precizná práca, dobrá komunikácia. Odporúčam všetkým.*
 
-            Tohle je kartička 3.
+            Ján Durica
 
+        .. container:: card theme50
 
-    Zde budou nějaké reference spokojených zákazníků.
+            *Great work, great service!*
 
-.. container:: sec-content theme85 line
+            Thomas Lundgrist
+
+.. container:: sec-content theme90 line
 
     .. container:: sec-title
 
@@ -88,10 +99,16 @@ Vítejte
 
     **Marius Preda**
 
-    Cimbalista Marius Preda je jeden z najvýznamnejších cimbalistov na svete a popredný jazzový cimbalista, tiež hráč na vibrafón, akordeón, husle a ďalšie. Pozrite sa na nasledujúce video. A mimochodom - Marius Preda hrá na cimbal značky Bohák od nás.
+    Cimbalista Marius Preda je jeden z najvýznamnejších cimbalistov na svete a popredný jazzový cimbalista, tiež hráč na vibrafón, akordeón, husle a ďalšie. Pozrite sa na nasledujúce video. A mimochodom - Marius Preda hrá na cimbal značky Bohák.
+
+    .. container:: iframe
+
+        .. raw:: html
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7cZ5p-7UxIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-.. container:: sec-content theme20 line
+.. container:: sec-content theme80 line
 
     .. container:: sec-title
 
@@ -108,13 +125,69 @@ Vítejte
 
     Po úspešných kvantometrických rozboroch pevnostných skúšok a ukončení legislatívy sa stal v roku 2013 majiteľom značky „BOHÁK“, a od roku 2014 majiteľom firmy „Cimbalom BOHÁK“ s.r.o. 
 
-.. container:: sec-content theme85 line
+.. container:: sec-content theme20 line
 
     .. container:: sec-title
 
         Ceník
 
+    .. container:: cards
 
-    Zde bude ceník.
+        .. container:: card theme40
+
+            **Bohák Standard**
+
+            .. image:: ../images/cenik/standard.jpg
+                :width: 80%
+                :alt: Cimbál typu Standard
+                :class: framed
+
+            od **3.380,- EUR**
+        
+        .. container:: card theme40
+
+            **Bohák Luxury**
+
+            .. image:: ../images/cenik/luxury.jpg
+                :width: 80%
+                :alt: Cimbál typu Luxury
+                :class: framed
+
+            od **3.850,- EUR**
+
+        .. container:: card theme40
+
+            **Bohák Luxury Superior**
+
+            .. image:: ../images/cenik/luxury-superior.jpg
+                :width: 80%
+                :alt: Cimbál typu Luxury Superior
+                :class: framed
+
+            od **5.500,- EUR**
+
+    
+    .. container:: iframe
+
+        .. raw:: html
+
+            <a href="https://www.quatro.sk/ako-nakupovat" title="Quatro - jednoduchý nákup na splátky" target="_blank"> <img src="https://www.quatro.sk/templates/quatro/assets/images/banner/quatro_1000x90.jpg" width="1000" height="90" alt="Quatro - jednoduchý nákup na splátky" /> </a>
+
+
+.. container:: sec-content theme80 line centered
+
+    .. container:: sec-title
+
+        Kontakt 
+
+    **Bohák Manufactury, s.r.o.**
+
+    032 14 Ľúbeľa 65
+
+    IČO: 52100448, DIČ: 2120897746
+
+    Tel.: +421 950 371 361
+
+    Email: cimbal.bohak@gmail.com
 
 

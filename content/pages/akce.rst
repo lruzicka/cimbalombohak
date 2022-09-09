@@ -10,30 +10,30 @@ Akce pro rodiče
 :status: published
 
 
-Vážení rodičia,
+.. container:: sec-content theme90
 
-máte obavy z kúpy cimbalu, pretože neviete či bude vaše dieťa baviť hra na cimbale a pýtate sa, čo s investíciou? Spoločnosť Cimbalom BOHÁK s.r.o. v spolupráci so Slovenskou Cimbalovou asociáciou - SCA pripravila program na podporu začínajúcich cimbalistov.
+    Vážení rodiče,
+    
+    
+    bojíte se koupit cimbál, protože nevíte, zda Vaše dítě bude mít zájem o hru na cimbál i v budoucnu a ptáte se, zda je vhodné do nástroje investovat.  Společnost *Bohák Manufactury, s.r.o.* ve spolupráci se *Slovenskou Cimbalovou asociáciou - SCA* připravili program na podporu začínajících cimbalistů.
+    
+    1. Když dítě přestane hrát na cimbál, protože ztratí zájem, zaručíme odkoupení cimbálu naší společností, přičemž odečteme odpovídající částku **1,27 EUR na den** za používání cimbálu. Program platí ve Slovenské a České republice.
+    
+        **Modelový příklad**:
+   
+        Cena cimbálu je **3500,- EUR**. Dítě hraje na cimbál 36 měsíců a skončí. 
 
-
-
-
-1. Keď dieťa prestane navštevovať ZUŠ, pretože už nechce hrať na cimbal alebo ste neistí, či ho to bude baviť a bude v tom pokračovať, zaručíme odkúpenie cimbalu našou spoločnosťou, pričom bude odrátaná alikvotná čiastka za používanie cimbalu. Program platí len v Slovenskej a Českej republike od 08.03.2017.
-
-                **Príklad**:
-
-                Cena cimbalu je **3500,- €**. Dieťa navštevuje ZUŠ 36 mesiacov a skončí. Zavoláte nám a my odkúpime cimbal, pričom bude odrátaná čiastka za používanie **1,27 € / deň**. Zostatok vyplatíme na účet zákazníka.
-        
-
-
-2. Možnosť zakúpenia cimbalu na splátky pres Quatro. Kontaktujte nás pre viacej informácií.
-
-
-.. container:: w3-center w3-margin
-
-    .. raw:: html
-
-        <a href="https://www.quatro.sk/ako-nakupovat" title="Quatro - jednoduchý nákup na splátky" target="_blank"> <img src="https://www.quatro.sk/templates/quatro/assets/images/banner/quatro_745x285.jpg" width="500" height="200" alt="Quatro - jednoduchý nákup na splátky" /> </a>           
-     
+        Zavoláte nám a my odkoupíme cimbál. Od původní kupní ceny odpočítáme uvedenou částku, tedy  **1,27 EUR za den**, celkem **1391,- EUR**.  Zbytek vyplatíme na účet zákazníka.
+            
+    2. Je možnost zakoupit cimbál na splátky přes Quatro. Kontaktujte nás pro více informací.
+    
+    
+    .. container:: iframe
+    
+        .. raw:: html
+    
+            <a href="https://www.quatro.sk/ako-nakupovat" title="Quatro - jednoduchý nákup na splátky" target="_blank"> <img src="https://www.quatro.sk/templates/quatro/assets/images/banner/quatro_745x285.jpg" width="500" height="200" alt="Quatro - jednoduchý nákup na splátky" /> </a>           
+         
 
 
 
