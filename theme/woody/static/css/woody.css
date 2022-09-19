@@ -119,6 +119,30 @@ footer {
     text-align: center;
 }
 
+.illustrated {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image {
+    flex-basis: 40%;
+}
+
+.rtext {
+    flex-basis: 60%;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.ltext {
+    flex-basis: 60%;
+    padding-right: 20px;
+    text-align: justify;
+}
+
 .credits {
     font-size: 80%;
 }
@@ -139,5 +163,37 @@ footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.timeline {
+    display: flex;
+}
+
+.timeline-divider {
+    border-right: 2px solid black;
+    left: 16px;
+    position: absolute;
+    top: 0px;
+    height: 100%;
+}
+
+.timeline ul {
+    list-style-image: url('../images/circle.png');
+}
+
+.timeline li {
+    margin-bottom: 8px;
+}
+
+.left-text {
+    float: left;
+    width: 60%;
+    height: 60px;
+}
+
+.right-image {
+    float: right;
+    width: 30%;
+    height: 60px;
 }
 

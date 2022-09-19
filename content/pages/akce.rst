@@ -10,7 +10,7 @@ Akce pro rodiče
 :status: published
 
 
-.. container:: sec-content theme90
+.. container:: sec-content
 
     Vážení rodiče,
     
