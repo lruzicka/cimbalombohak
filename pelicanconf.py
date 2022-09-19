@@ -6,6 +6,7 @@ SITESUBTITLE = 'tradiční výrobce cimbálů od roku 1900'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
+OUTPUT_PATH = 'docs'
 
 TIMEZONE = 'Europe/Bratislava'
 
