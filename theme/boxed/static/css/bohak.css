@@ -1,4 +1,22 @@
+#page {
+    max-width: 70%;
+    min-width: 960px;
+    margin: auto;
+}
+
 .title {
     padding-top: 50pt;
     
+}
+
+.line {
+    border-bottom: 2px solid black;
+}
+
+.section {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.section-title {
+    font-size: 140%;
 }

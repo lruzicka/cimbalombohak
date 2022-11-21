@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Bratislava'
 
 DEFAULT_LANG = 'sk'
 
-THEME = 'theme/woody'
+THEME = 'theme/boxed'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

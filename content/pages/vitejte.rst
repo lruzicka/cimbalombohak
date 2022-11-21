@@ -10,7 +10,7 @@ Vítejte
 :status: hidden
 :save_as: index.html
 
-.. container:: sec-content theme100
+.. container:: section theme100
 
     na stránkách Bohák Manufactury, s.r.o., jediného a oficiálního výrobce cimbálů značky **Bohák**.
 
@@ -24,17 +24,17 @@ Vítejte
         </video>
 
 
-.. container:: sec-content theme90 line
+.. container:: section theme90 line
 
-    .. container:: sec-title
+    .. container:: section-title
 
         `Historie značky <./pages/historie-znacky.html>`_
    
     Historie firmy Bohák se začala psát v roce 1900 a její zrod předznamenal vývoj cimbálu ve 20. století, jelikož se stala konkurentem a de fakto pokračovatelem cimbálové firmy Schunda. Její zakladatel, Lajos Bohák, se narodil 6. srpna roku 1870 v obci Kvetná na Slovensku. Nejdříve se zajímal o práci ve firmě Schunda, kde jej ale, jak se později ukázalo bohužel pro ně, odmítli. Uznání si Lajos Bohák získal až v roce 1896 při příležitosti hospodářské výstavy, na které představil svůj koncertní bílý cimbál. V roce 1900 si otevírá svoji vlastní dílnu a zavádí do výroby cimbálů další moderní prvky.
 
-.. container:: sec-content theme80 line
+.. container:: section theme80 line
 
-    .. container:: sec-title
+    .. container:: section-title
 
         Vyrobeno k dokonalosti
 
@@ -57,7 +57,7 @@ Vítejte
 
     Našou veľkou snahou je podporiť hru na tento krásny nástroj u detí a mladej generácie. Aj preto vyrábame cimbaly cenovo dostupnejšie pre rodičov, pričom ponúkame aj splátkový systém. 
 
-.. container:: sec-content theme90
+.. container:: section theme90
 
     .. image:: ../images/bily-cimbal-kolaz.png
         :width: 70%
@@ -65,7 +65,7 @@ Vítejte
         :class: image-centered
 
 
-.. container:: sec-content theme20 line content-centered
+.. container:: section theme20 line content-centered
 
     .. container:: sec-title
         
@@ -91,9 +91,9 @@ Vítejte
 
             Thomas Lundgrist
 
-.. container:: sec-content theme90 line
+.. container:: section theme90 line
 
-    .. container:: sec-title
+    .. container:: section-title
 
         Představujeme
 
@@ -108,7 +108,7 @@ Vítejte
             <iframe width="560" height="315" src="https://www.youtube.com/embed/7cZ5p-7UxIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-.. container:: sec-content theme80 line
+.. container:: section theme80 line
 
     .. container:: sec-title
 
@@ -125,7 +125,7 @@ Vítejte
 
     Po úspešných kvantometrických rozboroch pevnostných skúšok a ukončení legislatívy sa stal v roku 2013 majiteľom značky „BOHÁK“, a od roku 2014 majiteľom firmy „Cimbalom BOHÁK“ s.r.o. 
 
-.. container:: sec-content theme20 line
+.. container:: section theme20 line
 
     .. container:: sec-title
 
@@ -174,7 +174,7 @@ Vítejte
             <a href="https://www.quatro.sk/ako-nakupovat" title="Quatro - jednoduchý nákup na splátky" target="_blank"> <img src="https://www.quatro.sk/templates/quatro/assets/images/banner/quatro_1000x90.jpg" width="1000" height="90" alt="Quatro - jednoduchý nákup na splátky" /> </a>
 
 
-.. container:: sec-content theme80 line centered
+.. container:: section theme80 line centered
 
     .. container:: sec-title
 
